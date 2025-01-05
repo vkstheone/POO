@@ -1,0 +1,8 @@
+exercicio - modelagem
+
+1.  Ter uma base de conhecimento e essensial, nao e so esqcvrever codigos mais entender o porque, como funciona aquilo, como surgiu essas tecnologias e nesse modulo pode entender principalmente
+os paradgimas.
+
+2. O paradgimas de oritentação a objetos e o mais indicado para implementar o gerencionamento da biblioteca letra c).
+   Porque envolve entidades ben definidas (Livros, Autores, Usuários, Empréstimos) que possuem atributos e comportamentos. Tambem porque o POO facilita o reuso do código por meio de herança, composição e 
+   polimorfismo.
